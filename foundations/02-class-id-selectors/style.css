@@ -1,0 +1,19 @@
+.txt {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu sans', sans-serif;
+}
+
+.txt.cooler {
+    font-size: 24px;
+}
+
+#main {
+    color: blue;
+    font-size: 36px;
+}
+
+#secondary {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
